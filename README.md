@@ -5,32 +5,41 @@ Hence outlier detection is crucial steps in data analysis where we identify data
 Outliners can lead to incorrect conclusions and affect performance of machine learning models.
 
 Some common outlier detection techniques:
+
 **1. Statstical Methods**
+
     1. Z Score
     2. Modified Z Score
     3. IQR Inter Quartile Range
     4. Grubbs Test
+    
 **2. Machine Learning Based Methods**
    1. Isolation Forest
    2. Local Outlier Factor
    3. k-Nearest Neighbors k-NN
    4. One-Class Support Vector Machine
    5. Auto Encoders
+      
 **3. Distance Based Methods**
    1. Euclidean Distance
    2. Mahalanobis Distance
+      
 **4. Clustering Based Methods**
    1. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
    2. K-Means Clustering
+      
 **5. Visual Methods**
    1. Box Plot
    2. Scatter Plot
    3. Histogram
+      
 **6. Robust Methods**
    1. Robust Regression
    2. Robust Principal Component Analysis (PCA)
+
 **7. Ensable Methods**
    1. Random Cut Forest (RCF)
+
 **8. Rule Based Methods**
    1. Domain-Specific Rules
   
