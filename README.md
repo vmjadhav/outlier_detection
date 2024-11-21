@@ -1,4 +1,4 @@
-# outlier_detection
+# Outlier Detection
 
 Outliers can distort analysis. 
 Hence outlier detection is crucial steps in data analysis where we identify data points that significantly deviate from rest of data set.
